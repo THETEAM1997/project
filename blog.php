@@ -14,7 +14,7 @@
 	<link href="css/main.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
     <!--[if lt IE 9]>
-    <script src="js/php5shiv.js"></script>
+    <script src="js/php5shi.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->       
     <link rel="shortcut icon" href="images/ico/favicon.ico">
